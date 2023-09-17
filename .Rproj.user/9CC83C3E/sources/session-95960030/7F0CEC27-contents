@@ -1,0 +1,9 @@
+---
+title: "site1"
+---
+
+This is a Quarto website I'm creating in the DevOps workshop at positconf::2023
+
+```{r}
+print('Hello Chicago!')
+```

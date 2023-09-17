@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "site1",
+    "section": "",
+    "text": "This is a Quarto website I’m creating in the DevOps workshop at positconf::2023\n\nprint('Hello Chicago!')\n\n[1] \"Hello Chicago!\""
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]
