@@ -11,6 +11,6 @@
     "href": "index.html",
     "title": "site1",
     "section": "",
-    "text": "This is a Quarto website I’m creating in the DevOps workshop at positconf::2023\n\nprint('Hello Chicago!')\n\n[1] \"Hello Chicago!\""
+    "text": "This is a Quarto website I’m creating in the DevOps workshop at positconf::2023\n\nlibrary(rsconnect)\nprint('Hello Chicago!')\n\n[1] \"Hello Chicago!\""
   }
 ]
